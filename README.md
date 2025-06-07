@@ -12,7 +12,9 @@ The project leverages **OpenCV** and **classical computer vision techniques** to
 - **Edge Detection**: Utilizing **Canny Edge Detection** to highlight lane boundaries.  
 - **Region of Interest Selection**: Filtering out irrelevant details to focus on the road lanes.  
 - **Hough Transform for Line Detection**: Identifying straight-line features representing lane markers.  
-- **Lane Segmentation & Overlay**: Separating left and right lanes and overlaying the results for clear visualization.  
+- **Lane Segmentation & Overlay**: Separating left and right lanes and overlaying the results for clear visualization.
+
+  ![test_image](https://github.com/user-attachments/assets/168cecec-b02d-4506-bbd0-233525757abe)
 
 #### **System Approach**  
 The structured approach follows these steps:  
